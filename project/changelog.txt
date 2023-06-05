@@ -1,0 +1,16 @@
+
+For the last release of AdAstra-RTK visit AdAstra-Soft . com
+
+AASun_External_Loader is an external loader for STM32CubeProgrammer
+It is configured for development and debug.
+Can be compiled as standard version (with G071xx.ld) for test and debug
+or as external loader with extLoader.ld
+
+The project is configured for a G071CB custom board
+
+--------------------------------------------------------
+2023/01		Project external loader W25Q64_AASUN for AASun
+
+23/05/24	1st release
+
+--------------------------------------------------------
